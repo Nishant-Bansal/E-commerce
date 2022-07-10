@@ -1,0 +1,1 @@
+export const VIEW_PRODUCT_DATA = 'VIEW_PRODUCT_DATA'

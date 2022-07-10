@@ -1,0 +1,22 @@
+.header-container{
+    height: 6vh;
+    width: 100%;
+    display: flex;
+    padding: 15px;
+    background-color: #9b1e26;
+    justify-content: space-between;
+    align-items: center;
+}
+
+.header-heading-container{
+    color: white;
+    font-size: 40px;
+    font-weight: bolder;
+    font-style: italic;
+}
+
+.about-us-container{
+    color: white;
+    font-size: 30px;
+    padding-right: 40px;
+}
